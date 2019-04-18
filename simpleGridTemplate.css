@@ -113,11 +113,8 @@ header {
 }
 
 .cards2 {
-	width: 100%;
-	height: auto;
 	max-width: 400px;
-	max-height: 200px;
-	opacity: 0.8;
+	max-height: 300px;
 }
 
 .intro .column p {
